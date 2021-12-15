@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@react-native-community/checkbox": "^0.5.9",
+    "user": "^0.0.0"
+  },
+  "name": "react-native-signup-form",
+  "version": "1.0.0",
+  "description": "This is a simple react native sign up form",
+  "main": "Signup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "sign",
+    "up",
+    "form",
+    "register"
+  ],
+  "author": "Sunil Naik banavath",
+  "license": "ISC"
+}
