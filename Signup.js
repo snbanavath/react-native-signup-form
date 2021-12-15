@@ -2,7 +2,7 @@ import React, {useState} from 'react'
 import {View, Text, StyleSheet, TextInput, TouchableOpacity, ScrollView } from 'react-native'
 
 import CheckBox from '@react-native-community/checkbox';
-export default function StartScreen(){
+export default function SignUpForm(){
     const [isSelected, setSelection] = useState(false);
     return (
         <ScrollView>
