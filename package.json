@@ -10,6 +10,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snbanavath/react-native-signup-form.git"
+  },
   "keywords": [
     "react",
     "native",
@@ -19,5 +23,7 @@
     "register"
   ],
   "author": "Sunil Naik banavath",
-  "license": "ISC"
+  "license": "ISC",
+  "email": "b.s.n.161557@gmail.com",
+  "url": "https://github.com/snbanavath"
 }
