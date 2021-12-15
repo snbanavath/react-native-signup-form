@@ -4,7 +4,7 @@
     "user": "^0.0.0"
   },
   "name": "react-native-signup-form",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This is a simple react native sign up form",
   "main": "Signup.js",
   "scripts": {
